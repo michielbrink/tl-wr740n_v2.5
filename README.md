@@ -12,13 +12,15 @@ de pin-outs (https://forum.openwrt.org/viewtopic.php?id=24873)
 
 hier nog meer pin-out en informatie (http://wiki.openwrt.org/toh/d-link/dir-600#usb.mod)
 
-stap 1
 ---------------
 vanaf rechtsonder is het de 9de en 10de pin naar boven.
 
 de 9de is D-
 
 de 10de is D+
+
+![soldeerpinnen](http://wiki.openwrt.org/_media/toh/d-link/ar72xx_usb_mod_solder_points.jpg?cache=)
+![soldeerpinnen2](http://spejlickari.wz.cz/public/galerie/heap/AR7240.JPG)
 
 serial out
 ==============
