@@ -14,4 +14,10 @@ hier nog meer pin-out en informatie (http://wiki.openwrt.org/toh/d-link/dir-600#
 
 serial out
 ==============
-komt later
+Meer informatie volgt
+
+
+led status
+==============
+ik wil de ledjes gebruiken om de status van mijn python scripts weer te geven.
+Meer informatie volgt
