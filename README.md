@@ -1,8 +1,9 @@
+ik wil bij een tl-wr740n v2.5 usb toevoegen voor meer opslag zodat ik python kan draaien.
+
+later wil ik ook nog een serial out maken zodat ik hem met mijn electronica projecten kan verbinden.
+
 usb mod
 ==============
-
-informatie
-----------------
 dit wil ik doen maar dan voor v2.5 (https://forum.openwrt.org/viewtopic.php?id=37368)
 
 het heeft een ar7240 cpu van atheros
@@ -13,3 +14,4 @@ hier nog meer pin-out en informatie (http://wiki.openwrt.org/toh/d-link/dir-600#
 
 serial out
 ==============
+komt later
