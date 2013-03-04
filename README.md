@@ -12,6 +12,14 @@ de pin-outs (https://forum.openwrt.org/viewtopic.php?id=24873)
 
 hier nog meer pin-out en informatie (http://wiki.openwrt.org/toh/d-link/dir-600#usb.mod)
 
+stap 1
+---------------
+vanaf rechtsonder is het de 9de en 10de pin naar boven.
+
+de 9de is D-
+
+de 10de is D+
+
 serial out
 ==============
 Meer informatie volgt
