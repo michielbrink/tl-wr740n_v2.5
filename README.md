@@ -19,6 +19,8 @@ de 9de is D-
 
 de 10de is D+
 
+(let op! het eerste plaatje is op de kop)
+
 ![soldeerpinnen](http://wiki.openwrt.org/_media/toh/d-link/ar72xx_usb_mod_solder_points.jpg?cache=)
 ![soldeerpinnen2](http://spejlickari.wz.cz/public/galerie/heap/AR7240.JPG)
 
